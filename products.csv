@@ -1,0 +1,3 @@
+SKU,Product,Description,Price,Stock,Image Path,Active
+SOAP-001,Honey Oat,"สบู่น้ำผึ้งและข้าวโอ๊ต ทำความสะอาดผิว ให้สัมผัสนุ่มนวล",89,50,assets/honey-oat.png,TRUE
+SOAP-002,Aloe Vera,"สบู่ว่านหางจระเข้ ทำความสะอาดผิว พร้อมความรู้สึกสดชื่น",99,50,assets/aloe-vera.png,TRUE
